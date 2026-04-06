@@ -7,10 +7,10 @@ Article: Active-Power Control Strategy of Transformerless Three-Phase Four-Wire 
 **Disclaimer:** This repository contains the simulation models and pre-print manuscript of an academic paper that is currently pending formal peer review. 
 # Overview
 <img width="492" height="284" alt="image" src="https://github.com/user-attachments/assets/626c31b0-a315-4f35-82e6-ba5abbec2528" />
-      (Source: Author).
+(Source: Author)
 
 <img width="881" height="454" alt="image" src="https://github.com/user-attachments/assets/f7722050-df65-4ed8-ac8d-e91ced65310e" />
-     (Modified from: Marco Landi, "Making vehicle-to-grid a reality: V2G Developments in the UK", 2018).
+(Modified from: Marco Landi, "Making vehicle-to-grid a reality: V2G Developments in the UK", 2018).
 
 
 
@@ -66,9 +66,9 @@ The model was validated using MATLAB/Simulink with a 40 kVA system, 800 V DC bus
 
 ## 📝 Citation
 If you find this model or strategy useful in your research, please consider citing our pre-print:
-> Lanchakon Maikaew. "Active-Power Control Strategy of Transformerless Three-Phase Four-Wire Grid-Connected Converter for Peak Shaving using Battery Energy Storage System(BESS)." *Metropolitan Electricity Authority (MEA), Thailand*, 2026.
+> Lanchakon Maikaeo. "Active-Power Control Strategy of Transformerless Three-Phase Four-Wire Grid-Connected Converter for Peak Shaving using Battery Energy Storage System(BESS)." *Metropolitan Electricity Authority (MEA), Thailand*, 2026.
 
 ## ✉️ Contact
-**Lanchakon Maikaew** Power Usage Inspection Division, Distribution Equipment Department  
+**Lanchakon Maikaeo** Power Usage Inspection Division, Distribution Equipment Department  
 Metropolitan Electricity Authority (MEA), Thailand  
 Email: 
