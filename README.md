@@ -1,7 +1,6 @@
 # Project-Active-Power-Control-Strategy-of-Transformerless-3P4W-Converter
 Article: Active-Power Control Strategy of Transformerless Three-Phase Four-Wire Grid-Connected Converter for Peak Shaving using Battery Energy Storage System(BESS) was simulated by Matlab/Simulink
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MATLAB/Simulink](https://img.shields.io/badge/MATLAB-Simulink-blue.svg)](https://www.mathworks.com/products/simulink.html)
 [![Status: Pre-print](https://img.shields.io/badge/Status-Pre--print-orange.svg)]()
 
@@ -36,9 +35,7 @@ The system consists of:
 * **Converter:** 3-Phase 4-Wire Converter with an added 4th leg (2 switches + inductor) specifically for Mid-Point Balancing.
 * **Filter:** LCL Low-Pass Filter equipped with a passive damping resistor to mitigate resonance frequencies.
 
-*((<img width="684" height="251" alt="image" src="https://github.com/user-attachments/assets/95ae598f-74a7-4560-9118-fb6ad25676aa" />
-
-)`)*
+<img width="684" height="251" alt="image" src="https://github.com/user-attachments/assets/95ae598f-74a7-4560-9118-fb6ad25676aa" />
 
 ### 2. Control Strategy
 The software implementation uses a **Cascade Feedback Control** structure:
@@ -46,13 +43,9 @@ The software implementation uses a **Cascade Feedback Control** structure:
 * **Outer Grid Current Loop:** Controls the current at the Point of Common Connection (PCC) directly regulating the active and reactive power exchange with the grid.
 * **Mid-Point Balancing Loop:** Operates independently of the output AC control to inject a compensating current into the neutral point, effectively canceling out neutral currents caused by unbalanced loads and minimizing DC-link voltage oscillation.
 
-*([Control Block](<img width="931" height="444" alt="image" src="https://github.com/user-attachments/assets/01caa4f5-34a8-47c8-b6a9-e2f8e028cb1e" />
+<img width="931" height="444" alt="image" src="https://github.com/user-attachments/assets/01caa4f5-34a8-47c8-b6a9-e2f8e028cb1e" />
 
-)`)*
-
-*([Control Block of Mid-Point Balancing Loop ](<img width="491" height="138" alt="image" src="https://github.com/user-attachments/assets/c456fb1c-0391-40f3-a7c1-c0de27e5b50c" />
-
-)`)*
+<img width="491" height="138" alt="image" src="https://github.com/user-attachments/assets/c456fb1c-0391-40f3-a7c1-c0de27e5b50c" />
 
 ## 📊 Simulation Results (MATLAB/Simulink)
 The model was validated using MATLAB/Simulink with a 40 kVA system, 800 V DC bus, and a 10 kHz switching frequency.
