@@ -8,10 +8,10 @@ Article: Active-Power Control Strategy of Transformerless Three-Phase Four-Wire 
 **Disclaimer:** This repository contains the simulation models and pre-print manuscript of an academic paper that is currently pending formal peer review. 
 # Overview
 <img width="492" height="284" alt="image" src="https://github.com/user-attachments/assets/626c31b0-a315-4f35-82e6-ba5abbec2528" />
-(Source: Author).
+      (Source: Author).
 
 <img width="881" height="454" alt="image" src="https://github.com/user-attachments/assets/f7722050-df65-4ed8-ac8d-e91ced65310e" />
-(Modified from: Marco Landi, "Making vehicle-to-grid a reality: V2G Developments in the UK", 2018).
+     (Modified from: Marco Landi, "Making vehicle-to-grid a reality: V2G Developments in the UK", 2018).
 
 
 
@@ -36,7 +36,7 @@ The system consists of:
 * **Converter:** 3-Phase 4-Wire Converter with an added 4th leg (2 switches + inductor) specifically for Mid-Point Balancing.
 * **Filter:** LCL Low-Pass Filter equipped with a passive damping resistor to mitigate resonance frequencies.
 
-*([Topology](<img width="684" height="251" alt="image" src="https://github.com/user-attachments/assets/95ae598f-74a7-4560-9118-fb6ad25676aa" />
+*((<img width="684" height="251" alt="image" src="https://github.com/user-attachments/assets/95ae598f-74a7-4560-9118-fb6ad25676aa" />
 
 )`)*
 
@@ -78,4 +78,4 @@ If you find this model or strategy useful in your research, please consider citi
 ## ✉️ Contact
 **Lanchakon Maikaew** Power Usage Inspection Division, Distribution Equipment Department  
 Metropolitan Electricity Authority (MEA), Thailand  
-Email: [Your Email]
+Email: 
