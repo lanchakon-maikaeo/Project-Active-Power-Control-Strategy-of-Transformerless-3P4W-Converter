@@ -69,6 +69,6 @@ If you find this model or strategy useful in your research, please consider citi
 > Lanchakon Maikaeo. "Active-Power Control Strategy of Transformerless Three-Phase Four-Wire Grid-Connected Converter for Peak Shaving using Battery Energy Storage System(BESS)." *Metropolitan Electricity Authority (MEA), Thailand*, 2026.
 
 ## ✉️ Contact
-**Lanchakon Maikaeo** Power Usage Inspection Division, Distribution Equipment Department  
+**Lanchakon Maikaeo** Power Usage Inspection Department, Distribution Equipment Division
 Metropolitan Electricity Authority (MEA), Thailand  
 Email: 
