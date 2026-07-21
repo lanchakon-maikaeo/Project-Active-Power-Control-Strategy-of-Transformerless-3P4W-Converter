@@ -72,4 +72,4 @@ If you find this model or strategy useful in your research, please consider citi
 **Lanchakon Maikaeo** 
 Power Usage Inspection Department, Distribution Equipment Division,
 Metropolitan Electricity Authority (MEA), Thailand  
-Email: 
+Email: lanchakon.maikaeo@gmail.com
